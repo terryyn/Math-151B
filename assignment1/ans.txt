@@ -1,0 +1,11 @@
+2. The steady solution value for r=2 and r=0.5 is 1.
+3.
+   When h = 0.1,   y = 0.82544
+   When h = 0.1/2, y = 0.84331
+   When h = 0.1/4, y = 0.85121
+   1 = p = log2( (0.82544-0.84331)/(0.84331-0.85121) ) = 1.1776
+
+4. h = 0.25: it increases to 1 and remains steady 
+   h = 0.5: it reaches 1 and bounces up and down regularly from 1
+   h = 0.75: it bouces up and down irregularly. 
+   No the solution with large 
