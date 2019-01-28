@@ -1,0 +1,44 @@
+(a).
+
+Euler Method
+N =  10
+ans =  0.848577688609155
+N =  20
+ans =  0.854261491392197
+N =  40
+ans =  0.856526626442711
+N =  80
+ans =  0.857541767549318
+N =  160
+ans =  0.858022590427672
+N =  320
+ans =  0.858256602222059
+
+Runge-Kutta Method
+N =  10
+ans =  0.852986409173368
+N =  20
+ans =  0.857108490469313
+N =  40
+ans =  0.858140204624536
+N =  80
+ans =  0.858399561373773
+N =  160
+ans =  0.858464679344383
+N =  320
+ans =  0.858481000627705
+
+
+(b)
+Euler Method: 1
+Runge-Kutta: 2
+
+(c)
+Exact solution = 0.858486428447462
+One digit: h = 0.1
+Two digits: h = 0.1
+Three digits: h = 0.025
+
+(d)
+One digit: Euler method because this converges fast enough to reach one digit agreement as h=0.1 also satisfies it for euler 
+Three digits: Runge-Metta because this requires h=0.025 to satisfy but Euler method requires h=0.00625 to satisfy. 
